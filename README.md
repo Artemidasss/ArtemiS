@@ -1,4 +1,4 @@
-# Terraria mini game README
+# TERRARIA MINI GAME
 
 ## Содержание
 1. Описание Игры
